@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/HomeFragment" android:title="All Photos"
+        android:icon="@drawable/ic_baseline_home_24"
+        tools:ignore="HardcodedText">
+    </item>
+
+    <item android:id="@+id/MyPhotos" android:title="Favorite"
+        android:icon="@drawable/ic_baseline_favorite_24"
+        tools:ignore="HardcodedText" />
+
+</menu>
